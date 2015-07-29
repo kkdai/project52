@@ -23,6 +23,8 @@ Here is the constraints of Project52.
 3. (07/10): [https://github.com/kkdai/goFbAlbum](https://github.com/kkdai/goFbAlbum) A package to summerize all facebook album handle APIs using FB Graph API.．
 4. (07/18): [https://github.com/kkdai/mstranslator](https://github.com/kkdai/mstranslator) A client to use [Microsoft Translator Services](mstranslator).
 5. (07/25): [https://github.com/kkdai/iloveptt](https://github.com/kkdai/iloveptt) A Web crawler to browse [PTT](https://www.ptt.cc/index.bbs.html) and download photos.
+6. (07/31): [https://github.com/kkdai/paxos](https://github.com/kkdai/paxos) A consensus algorithm "Paxos" implement.
+
 
 #Join Me
 
