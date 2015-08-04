@@ -24,6 +24,7 @@ Here is the constraints of Project52.
 4. (07/18): [https://github.com/kkdai/mstranslator](https://github.com/kkdai/mstranslator) A client to use [Microsoft Translator Services](mstranslator).
 5. (07/25): [https://github.com/kkdai/iloveptt](https://github.com/kkdai/iloveptt) A Web crawler to browse [PTT](https://www.ptt.cc/index.bbs.html) and download photos.
 6. (07/31): [https://github.com/kkdai/paxos](https://github.com/kkdai/paxos) A consensus algorithm "Paxos" implement.
+7. (08/07): [https://github.com/kkdai/bloomfilter](https://github.com/kkdai/bloomfilter) A bloom filter implement.
 
 
 #Join Me
