@@ -34,6 +34,8 @@ Here is the constraints of Project52.
 14. (09/26) [https://github.com/kkdai/nfa](https://github.com/kkdai/nfa) A Nondeterministic Finite Automata function implement in Golang
 15. (10/02) [https://github.com/kkdai/e-nfa](https://github.com/kkdai/e-nfa) A Epsilon Nondeterministic Finite Automata function implement in Golang
 16. (10/09) [https://github.com/kkdai/re2epsnfa](https://github.com/kkdai/re2epsnfa) A tranform function to translate RE to Epsilon-NFA
+17. (10/16) [https://github.com/kkdai/cyk](https://github.com/kkdai/cyk) CYK algorithm in Golang
+18. (10/23) [https://github.com/kkdai/pcp](https://github.com/kkdai/pcp) PCP: Post’s Correspondence Problems simple solver implement in Golang
 
 
 #Join Me
