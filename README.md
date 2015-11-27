@@ -40,6 +40,7 @@ Here is the constraints of Project52.
 20. (11/05) [https://github.com/kkdai/twitter](https://github.com/kkdai/twitter) A simple twitter API in Golang
 21. (11/13) [https://github.com/kkdai/consistent](https://github.com/kkdai/consistent) Consistent Hashing implement in Golang
 22. (11/20) [https://github.com/kkdai/photomgr](https://github.com/kkdai/photomgr) A photo download made for gomobile in Golang
+23. (11/27) [https://github.com/kkdai/trigram](https://github.com/kkdai/trigram) A trigram indexing using Go.
 
 
 #Join Me
