@@ -41,6 +41,7 @@ Here is the constraints of Project52.
 21. (11/13) [https://github.com/kkdai/consistent](https://github.com/kkdai/consistent) Consistent Hashing implement in Golang
 22. (11/20) [https://github.com/kkdai/photomgr](https://github.com/kkdai/photomgr) A photo download made for gomobile in Golang
 23. (11/27) [https://github.com/kkdai/trigram](https://github.com/kkdai/trigram) A trigram indexing using Go.
+24. (12/04) [https://github.com/kkdai/ngram](https://github.com/kkdai/ngram) A ngram indexing using Go.
 
 
 #Join Me
