@@ -42,6 +42,7 @@ Here is the constraints of Project52.
 22. (11/20) [https://github.com/kkdai/photomgr](https://github.com/kkdai/photomgr) A photo download made for gomobile in Golang
 23. (11/27) [https://github.com/kkdai/trigram](https://github.com/kkdai/trigram) A trigram indexing using Go.
 24. (12/04) [https://github.com/kkdai/ngram](https://github.com/kkdai/ngram) A ngram indexing using Go.
+25. (12/11) [https://github.com/kkdai/beacon](https://github.com/kkdai/beacon) Beacon Simulator: A simple beacon simulator (iBeacon/Eddystone) in Golang
 
 
 #Join Me
