@@ -4,7 +4,7 @@
 A project to write a small project everyweek. All projects are written by Golang. 
 
 
-#Perface:
+#Preface:
 
 I saw a slide [reflectionsfrom 52 weeks 52 projects](https://speakerdeck.com/jeffersonlam/reflections-from-52-weeks-52-projects) and feel inspired. So, I hope I could learn something by doing the same challenge fo myself.
 
