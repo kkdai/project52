@@ -45,6 +45,8 @@ Here is the constraints of Project52.
 25. (12/11) [https://github.com/kkdai/beacon](https://github.com/kkdai/beacon) Beacon Simulator: A simple beacon simulator (iBeacon/Eddystone) in Golang
 26. (12/18) [https://github.com/kkdai/youtube](https://github.com/kkdai/youtube) A Youtube download package in Golang
 27. (12/25) [https://github.com/kkdai/react-diff](https://github.com/kkdai/react-diff) React Diff binary tree in Golang 
+28. (12/31) [https://github.com/kkdai/EddystoneScanner](https://github.com/kkdai/EddystoneScanner) Eddystone Beacon Scanner in Golang
+
 
 #Join Me
 
