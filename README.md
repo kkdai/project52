@@ -46,6 +46,8 @@ Here is the constraints of Project52.
 26. (12/18) [https://github.com/kkdai/youtube](https://github.com/kkdai/youtube) A Youtube download package in Golang
 27. (12/25) [https://github.com/kkdai/react-diff](https://github.com/kkdai/react-diff) React Diff binary tree in Golang 
 28. (12/31) [https://github.com/kkdai/EddystoneScanner](https://github.com/kkdai/EddystoneScanner) Eddystone Beacon Scanner in Golang
+29. (01/08) [https://github.com/kkdai/CoapPubsub](https://github.com/kkdai/CoapPubsub) A PubSub client/server using CoAP protocol 
+
 
 
 #Join Me
