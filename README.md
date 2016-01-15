@@ -47,7 +47,7 @@ Here is the constraints of Project52.
 27. (12/25) [https://github.com/kkdai/react-diff](https://github.com/kkdai/react-diff) React Diff binary tree in Golang 
 28. (12/31) [https://github.com/kkdai/EddystoneScanner](https://github.com/kkdai/EddystoneScanner) Eddystone Beacon Scanner in Golang
 29. (01/08) [https://github.com/kkdai/CoapPubsub](https://github.com/kkdai/CoapPubsub) A PubSub client/server using CoAP protocol 
-30. (01/15) [UDP client/server to get Public and Private IP and Port for hole punching](https://github.com/kkdai/ri)
+30. (01/15) [https://github.com/kkdai/ri](https://github.com/kkdai/ri) A UDP client/server to get Public and Private IP and Port for hole punching
 
 
 
