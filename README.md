@@ -48,7 +48,7 @@ Here is the constraints of Project52.
 28. (12/31) [https://github.com/kkdai/EddystoneScanner](https://github.com/kkdai/EddystoneScanner) Eddystone Beacon Scanner in Golang
 29. (01/08) [https://github.com/kkdai/CoapPubsub](https://github.com/kkdai/CoapPubsub) A PubSub client/server using CoAP protocol 
 30. (01/15) [https://github.com/kkdai/ri](https://github.com/kkdai/ri) A UDP client/server to get Public and Private IP and Port for hole punching
-
+31. (01/22) [https://github.com/kkdai/coapmq](https://github.com/kkdai/coapmq) A Publish-Subscribe Broker for the Constrained Application Protocol (CoAP) in Golang 
 
 
 #Join Me
