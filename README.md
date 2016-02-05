@@ -50,7 +50,7 @@ Here is the constraints of Project52.
 30. (01/15) [https://github.com/kkdai/ri](https://github.com/kkdai/ri) A UDP client/server to get Public and Private IP and Port for hole punching
 31. (01/22) [https://github.com/kkdai/coapmq](https://github.com/kkdai/coapmq) A Publish-Subscribe Broker for the Constrained Application Protocol (CoAP) in Golang 
 32. (01/29) [https://github.com/kkdai/oxford-face](https://github.com/kkdai/oxford-face) Project Oxford Face API for Golang 
-
+33. (02/05) [https://github.com/kkdai/oxford-face-client](https://github.com/kkdai/oxford-face-client) A client App for oxford-face Golang package (http://github.com/kkdai/oxford-face)
 
 #Join Me
 
