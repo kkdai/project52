@@ -53,6 +53,8 @@ Here is the constraints of Project52.
 33. (02/05) [https://github.com/kkdai/oxford-face-client](https://github.com/kkdai/oxford-face-client) A client App for oxford-face Golang package (http://github.com/kkdai/oxford-face)
 34. (02/12) [https://github.com/kkdai/oxford-emotion](https://github.com/kkdai/oxford-emotion) Project Oxford Emotion API for Golang
 35. (02/19) [https://github.com/kkdai/diskqueue](https://github.com/kkdai/diskqueue) NSQ Diskqueue implement in Golang
+36. (02/26): [https://github.com/kkdai/pd](https://github.com/kkdai/pd) (PUBSUB) Publish-Subscrbe message broker with Disk queue in Golang
+
 
 #Join Me
 
