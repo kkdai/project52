@@ -54,6 +54,7 @@ Here is the constraints of Project52.
 34. (02/12) [https://github.com/kkdai/oxford-emotion](https://github.com/kkdai/oxford-emotion) Project Oxford Emotion API for Golang
 35. (02/19) [https://github.com/kkdai/diskqueue](https://github.com/kkdai/diskqueue) NSQ Diskqueue implement in Golang
 36. (02/26): [https://github.com/kkdai/pd](https://github.com/kkdai/pd) (PUBSUB) Publish-Subscrbe message broker with Disk queue in Golang
+37. (03/04): [https://github.com/kkdai/rd](https://github.com/kkdai/rd) A simple RPC Message Queue Server/Client with DiskQueue.
 
 
 #Join Me
