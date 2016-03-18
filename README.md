@@ -56,6 +56,7 @@ Here is the constraints of Project52.
 36. (02/26): [https://github.com/kkdai/pd](https://github.com/kkdai/pd) (PUBSUB) Publish-Subscrbe message broker with Disk queue in Golang
 37. (03/04): [https://github.com/kkdai/rd](https://github.com/kkdai/rd) A simple RPC Message Queue Server/Client with DiskQueue.
 38. (03/11) [https://github.com/kkdai/raftrpc](https://github.com/kkdai/raftrpc) Simple RPC Key Value Server using etcd/Raft in Golang.
+39. (03/18) [https://github.com/kkdai/githubrss](https://github.com/kkdai/githubrss) A github notification (starred, follower, followed) RSS feed in Golang
 
 #Join Me
 
