@@ -58,6 +58,7 @@ Here is the constraints of Project52.
 38. (03/11) [https://github.com/kkdai/raftrpc](https://github.com/kkdai/raftrpc) Simple RPC Key Value Server using etcd/Raft in Golang.
 39. (03/18) [https://github.com/kkdai/githubrss](https://github.com/kkdai/githubrss) A github notification (starred, follower, followed) RSS feed in Golang
 40. (03/25) [https://github.com/kkdai/rss-webserver](https://github.com/kkdai/rss-webserver) A simple Github Status RSS feeder server in Golang
+41. (04/01) [https://github.com/kkdai/slack-console](https://github.com/kkdai/slack-console) A simple slack console tool in Golang
 
 
 #Join Me
