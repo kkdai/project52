@@ -59,7 +59,7 @@ Here is the constraints of Project52.
 39. (03/18) [https://github.com/kkdai/githubrss](https://github.com/kkdai/githubrss) A github notification (starred, follower, followed) RSS feed in Golang
 40. (03/25) [https://github.com/kkdai/rss-webserver](https://github.com/kkdai/rss-webserver) A simple Github Status RSS feeder server in Golang
 41. (04/01) [https://github.com/kkdai/slack-console](https://github.com/kkdai/slack-console) A simple slack console tool in Golang
-
+42. (04/08) [https://github.com/kkdai/plurk-makerserver](https://github.com/kkdai/plurk-makerserver) Plurk post server for IFTTT Maker in Golang 
 
 #Join Me
 
