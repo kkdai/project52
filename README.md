@@ -60,6 +60,7 @@ Here is the constraints of Project52.
 40. (03/25) [https://github.com/kkdai/rss-webserver](https://github.com/kkdai/rss-webserver) A simple Github Status RSS feeder server in Golang
 41. (04/01) [https://github.com/kkdai/slack-console](https://github.com/kkdai/slack-console) A simple slack console tool in Golang
 42. (04/08) [https://github.com/kkdai/plurk-makerserver](https://github.com/kkdai/plurk-makerserver) Plurk post server for IFTTT Maker in Golang 
+43. (04/15) [https://github.com/kkdai/kmp](https://github.com/kkdai/kmp) KMP (Knuth–Morris–Pratt algorithm) implement and related string function `Strstr` and `Strchr` in Golang 
 
 #Join Me
 
