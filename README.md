@@ -66,6 +66,7 @@ Here is the constraints of Project52.
 46. (05/06) [https://github.com/kkdai/LineBotPetNeedMe](https://github.com/kkdai/LineBotPetNeedMe) Animal Adoption Platform on Line Bot 
 47. (05/13) [https://github.com/kkdai/petneedme](https://github.com/kkdai/petneedme) Package to get Pet Adoption OpenData from Taiwan in Golang
 48. (05/20) [https://github.com/kkdai/bstream](https://github.com/kkdai/bstream) A Bit Stream helper in Golang 
+49. (05/27) [https://github.com/kkdai/trr](https://github.com/kkdai/trr) TRR: Time-Series of gorilla algorithm with Raft RPC Server/Client in Golang
 
 #Join Me
 
