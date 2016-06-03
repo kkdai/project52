@@ -67,6 +67,7 @@ Here is the constraints of Project52.
 47. (05/13) [https://github.com/kkdai/petneedme](https://github.com/kkdai/petneedme) Package to get Pet Adoption OpenData from Taiwan in Golang
 48. (05/20) [https://github.com/kkdai/bstream](https://github.com/kkdai/bstream) A Bit Stream helper in Golang 
 49. (05/27) [https://github.com/kkdai/trr](https://github.com/kkdai/trr) TRR: Time-Series of gorilla algorithm with Raft RPC Server/Client in Golang
+50. (06/03) [https://github.com/kkdai/maglev](https://github.com/kkdai/maglev) A Google Maglev Hashing Algorithm implement in Golang
 
 #Join Me
 
