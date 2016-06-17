@@ -69,6 +69,7 @@ Here is the constraints of Project52.
 49. (05/27) [https://github.com/kkdai/trr](https://github.com/kkdai/trr) TRR: Time-Series of gorilla algorithm with Raft RPC Server/Client in Golang
 50. (06/03) [https://github.com/kkdai/maglev](https://github.com/kkdai/maglev) A Google Maglev Hashing Algorithm implement in Golang
 51. (06/10) [https://github.com/kkdai/petl](https://github.com/kkdai/petl) A Pipeline ETL process and receive data from pipe in Golang
+52. (06/17) [https://github.com/kkdai/raftserver](https://github.com/kkdai/raftserver) A RPC Server implement base on Raft Paper in Golang
 
 
 #Join Me
