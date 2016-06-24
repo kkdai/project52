@@ -70,6 +70,9 @@ Here is the constraints of Project52.
 50. (06/03) [https://github.com/kkdai/maglev](https://github.com/kkdai/maglev) A Google Maglev Hashing Algorithm implement in Golang
 51. (06/10) [https://github.com/kkdai/petl](https://github.com/kkdai/petl) A Pipeline ETL process and receive data from pipe in Golang
 52. (06/17) [https://github.com/kkdai/raftserver](https://github.com/kkdai/raftserver) A RPC Server implement base on Raft Paper in Golang
+53. (06/24) [https://github.com/kkdai/FBBotTemplate](https://github.com/kkdai/FBBotTemplate) A simple Golang Facebook Bot Template and tutorial 
+
+... Still not finish :)
 
 
 #Join Me
