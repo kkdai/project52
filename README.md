@@ -6,14 +6,14 @@ A project to write a small project everyweek. All projects are written by Golang
 
 #Preface:
 
-I saw a slide [reflectionsfrom 52 weeks 52 projects](https://speakerdeck.com/jeffersonlam/reflections-from-52-weeks-52-projects) and feel inspired. So, I hope I could learn something by doing the same challenge fo myself.
+I saw a slide [reflectionsfrom 52 weeks 52 projects](https://speakerdeck.com/jeffersonlam/reflections-from-52-weeks-52-projects) and felt inspired. So, I hope I could learn something by doing the same challenge myself.
 
 #Constraint:
 
-Here is the constraints of Project52.
+Here are the constraints of Project52.
 
-- The project could be small or big, but it should be something new not refactoring project.
-- Programing language is not limited, feel free to write any language you just learn. (actually I am interest write some R package, because I just want to learn it.)
+- The project could be small or big, but it should be something new not just refactoring an old project.
+- The Programing language is not limited, feel free to write any language you have  just learnt. (actually I am interested in writing some R packages, just because I want to learn it.)
 - Don't need to create brand new project, you could rewrite some exist project. (but on your own way, not allow to fork and refine.)
 
 #Progress (2015/06/25~Now)
@@ -72,7 +72,7 @@ Here is the constraints of Project52.
 52. (06/17) [https://github.com/kkdai/raftserver](https://github.com/kkdai/raftserver) A RPC Server implement base on Raft Paper in Golang
 53. (06/24) [https://github.com/kkdai/FBBotTemplate](https://github.com/kkdai/FBBotTemplate) A simple Golang Facebook Bot Template and tutorial 
 
-... Still not finish :)
+... Still not finished :)
 
 
 #Join Me
@@ -81,7 +81,7 @@ Feel free to `fork` this project, if you want to do your `Project52 Challenge`.
 
 #Provide Idea or Encourage..
 
-Please file `issue` if you want to provide me any small project idea. (hopelly it could done within one week.  :p ).
+Please file an `issue` if you want to suggest a small project idea. (hopelly it could done within one week.  :p ).
 
-You could also encourage me by `star` this project. Or just `join` me.
+You can also encourage me by `staring` this project. Or just `join` me.
 
