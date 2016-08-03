@@ -13,7 +13,7 @@ I saw a slide [reflectionsfrom 52 weeks 52 projects](https://speakerdeck.com/jef
 Here are the constraints of Project52.
 
 - The project could be small or big, but it should be something new not just refactoring an old project.
-- The Programing language is not limited, feel free to write any language you have  just learnt. (actually I am interested in writing some R packages, just because I want to learn it.)
+- The Programming language is not limited, feel free to write any language you have  just learnt. (actually I am interested in writing some R packages, just because I want to learn it.)
 - Don't need to create brand new project, you could rewrite some exist project. (but on your own way, not allow to fork and refine.)
 
 #Progress (2015/06/25~Now)
