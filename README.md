@@ -71,6 +71,11 @@ Here are the constraints of Project52.
 51. (06/10) [https://github.com/kkdai/petl](https://github.com/kkdai/petl) A Pipeline ETL process and receive data from pipe in Golang
 52. (06/17) [https://github.com/kkdai/raftserver](https://github.com/kkdai/raftserver) A RPC Server implement base on Raft Paper in Golang
 
+
+#Talk
+
+- [COSCUP 2016](http://coscup.org/2016/): [Using Project 52 to Learn Golang](http://www.slideshare.net/EvansLin/coscup-2016-project-52-for-golang). Here is [video](https://livehouse.in/embed/channel/coscup2016h0/record/41A7e7z5bL?t=1h14m38s)
+
 #Join Me
 
 Feel free to `fork` this project, if you want to do your `Project52 Challenge`.
