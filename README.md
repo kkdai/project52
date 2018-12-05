@@ -16,7 +16,7 @@ Here are the constraints of Project52.
 - The Programming language is not limited, feel free to write any language you have  just learnt. (actually I am interested in writing some R packages, just because I want to learn it.)
 - Don't need to create brand new project, you could rewrite some exist project. (but on your own way, not allow to fork and refine.)
 
-## Progress (2015/06/25~Now)
+## Progress (2015/06/25~2016/06/17)
 
 1. (06/25)[https://github.com/kkdai/goFBPages](https://github.com/kkdai/goFBPages) A facebook page photo downloader
 2. (07/02) [https://github.com/kkdai/goInstagramDownloader](https://github.com/kkdai/goInstagramDownloader) Instagram photo downloader
@@ -74,7 +74,7 @@ Here are the constraints of Project52.
 
 ## Talk
 
-- [COSCUP 2016](http://coscup.org/2016/): [Using Project 52 to Learn Golang](http://www.slideshare.net/EvansLin/coscup-2016-project-52-for-golang). Here is [video](https://livehouse.in/embed/channel/coscup2016h0/record/41A7e7z5bL?t=1h14m38s)
+- [COSCUP 2016](http://coscup.org/2016/): [Using Project 52 to Learn Golang](http://www.slideshare.net/EvansLin/coscup-2016-project-52-for-golang).
 
 ## Join Me
 
