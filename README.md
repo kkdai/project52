@@ -23,8 +23,8 @@ Here are the constraints of Project52.
 3. (07/10) [![GitHub stars](https://img.shields.io/github/stars/kkdai/goFbAlbum?style=social)](https://github.com/kkdai/goFbAlbum/stargazers/) [https://github.com/kkdai/goFbAlbum](https://github.com/kkdai/goFbAlbum) A package to summerize all facebook album handle APIs using FB Graph API.．
 4. (07/18) [![GitHub stars](https://img.shields.io/github/stars/kkdai/mstranslator?style=social)](https://github.com/kkdai/mstranslator/stargazers/) [https://github.com/kkdai/mstranslator](https://github.com/kkdai/mstranslator) A client to use [Microsoft Translator Services](mstranslator).
 5. (07/25) [![GitHub stars](https://img.shields.io/github/stars/kkdai/iloveptt?style=social)](https://github.com/kkdai/iloveptt/stargazers/) [https://github.com/kkdai/iloveptt](https://github.com/kkdai/iloveptt) A Web crawler to browse [PTT](https://www.ptt.cc/index.bbs.html) and download photos
-6. (07/31) [https://github.com/kkdai/paxos](https://github.com/kkdai/paxos) A consensus algorithm "Paxos" implement
-7. (08/07) [https://github.com/kkdai/bloomfilter](https://github.com/kkdai/bloomfilter) A bloom filter implement
+6. (07/31) [![GitHub stars](https://img.shields.io/github/stars/kkdai/paxos?style=social)](https://github.com/kkdai/paxos/stargazers/) [https://github.com/kkdai/paxos](https://github.com/kkdai/paxos) A consensus algorithm "Paxos" implement
+7. (08/07) [![GitHub stars](https://img.shields.io/github/stars/kkdai/bloomfilter?style=social)](https://github.com/kkdai/bloomfilter/stargazers/) [https://github.com/kkdai/bloomfilter](https://github.com/kkdai/bloomfilter) A bloom filter implement
 8. (08/15) [https://github.com/kkdai/skiplist](https://github.com/kkdai/skiplist) SkipList implement in Go
 9. (08/22) [https://github.com/kkdai/pubsub](https://github.com/kkdai/pubsub) A Redis pub/sub concept implement
 10. (08/29) [https://github.com/kkdai/webpic](https://github.com/kkdai/webpic) A website pic downloader
