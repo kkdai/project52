@@ -18,7 +18,7 @@ Here are the constraints of Project52.
 
 ## Progress (2015/06/25~2016/06/17)
 
-1. (06/25) [![GitHub stars](https://img.shields.io/github.com/kkdai/goFBPages.svg?style=social&label=Star&maxAge=2592000)](https://github.com/kkdai/goFBPages/stargazers/) [https://github.com/kkdai/goFBPages](https://github.com/kkdai/goFBPages) A facebook page photo downloader
+1. (06/25) [![GitHub stars](https://img.shields.io/github/stars/kkdai/goFBPages?style=social)](https://github.com/kkdai/goFBPages/stargazers/) [https://github.com/kkdai/goFBPages](https://github.com/kkdai/goFBPages) A facebook page photo downloader
 2. (07/02) [https://github.com/kkdai/goInstagramDownloader](https://github.com/kkdai/goInstagramDownloader) Instagram photo downloader
 3. (07/10) [https://github.com/kkdai/goFbAlbum](https://github.com/kkdai/goFbAlbum) A package to summerize all facebook album handle APIs using FB Graph API.．
 4. (07/18) [https://github.com/kkdai/mstranslator](https://github.com/kkdai/mstranslator) A client to use [Microsoft Translator Services](mstranslator).
